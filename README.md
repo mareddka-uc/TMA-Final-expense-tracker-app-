@@ -18,6 +18,8 @@ Users can navigate between different views, including the chart view and list vi
 Users can tap on individual categories to view detailed expense information
 
 The following are the screenshots of the output:
+
+
 <img width="362" alt="Screenshot 2024-04-18 at 12 44 49 PM" src="https://github.com/mareddka-uc/TMA-Final-expense-tracker-app-/assets/155487523/fc35627a-c340-4dfa-978e-6d42e9f0dc26">
 <img width="354" alt="Screenshot 2024-04-18 at 12 45 05 PM" src="https://github.com/mareddka-uc/TMA-Final-expense-tracker-app-/assets/155487523/4fec534d-b29e-4ed5-94a8-beacae622337">
 <img width="356" alt="Screenshot 2024-04-18 at 2 26 33 PM" src="https://github.com/mareddka-uc/TMA-Final-expense-tracker-app-/assets/155487523/270937d7-3dda-4c4d-a89e-1da83c1bc4a8">

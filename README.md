@@ -3,16 +3,24 @@
 Expense Tracker App is a smartphone application built with React Native that helps users manage their spending more efficiently. It allows users to track their spending in several categories, read cost summaries, and visualise their spending habits using charts. spending Tracker App's straightforward UI and powerful features promise to simplify spending tracking while also providing users with insights into their financial activity.
 
 To run this app locally:
+
 Clone the repository: 
+
 git clone https://github.com/mareddka/expense-tracker-app.git
 Navigate to the directory:
+
 cd TMA Final-Expense-Tracker-App
+
 Install dependencies:
+
 npm install
+
 Run using:
+
 npm start or npx expo start
 
 Usage:
+
 Upon launching the app, users are presented with a dashboard displaying their expenses categorized by different expense types.
 Users can navigate between different views, including the chart view and list view, using the navigation buttons provided.
 Users can tap on individual categories to view detailed expense information

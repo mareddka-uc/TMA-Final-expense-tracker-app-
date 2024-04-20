@@ -53,7 +53,7 @@ Output of each clickable category
 <img width="357" alt="Screenshot 2024-04-18 at 2 28 29 PM" src="https://github.com/mareddka-uc/TMA-Final-expense-tracker-app-/assets/155487523/38ce3ebf-cedf-49ee-9315-718264609709">
 <img width="358" alt="Screenshot 2024-04-18 at 2 28 41 PM" src="https://github.com/mareddka-uc/TMA-Final-expense-tracker-app-/assets/155487523/ddbb00eb-e9cf-4f9f-8757-efe28547a598">
 
-Google drive link of the video:
+Google drive link of the video: https://drive.google.com/file/d/1yp0TQ0xz01L7F-tCXVFPFGbfcMAvTSw_/view?usp=drive_link
 
 
 
